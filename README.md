@@ -2,7 +2,7 @@
 I am Amresh Kumar, a passionate and growth-driven B.Tech (Information Technology) student at Annapoorana Engineering College, Salem, Tamil Nadu. Originally from Bihar, I am currently pursuing my degree with a strong focus on Data Analytics, AI Automation, and Business Intelligence.<br><br>I specialize in Python, SQL, Excel, and Power BI, and I enjoy transforming raw data into meaningful insights that help in better decision-making. My interest lies in solving real-world problems using data-driven approaches and automation techniques.<br><br>I have gained practical experience as a Data Analyst at CodeAlpha, an Analyst at Apna College, and currently contributing to Liquid Trees, where I support innovative environmental initiatives. These experiences have helped me develop strong analytical thinking, problem-solving skills, and hands-on exposure to real projects.<br><br>I am continuously learning and improving my skills in:<br><br>Data Cleaning & Data Analysis<br><br>Data Visualization<br><br>Business Intelligence Reporting<br><br>AI Automation Workflows<br><br>SQL Database Management<br><br>My goal is to build a successful career as a Data Analyst / AI Automation Specialist, where I can combine creativity with analytical thinking to create impactful solutions.
 
 
-## 🌐 Socials:
+## 🌐 Socials:[LinkedIn]
 [![LinkedIn] https://www.linkedin.com/in/amresh-kumar-8451162a6/ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amreshkumar08797@gmail.com) amreshkumar08797@gmail.com
 
 # 💻 Tech Stack:
